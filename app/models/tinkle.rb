@@ -1,0 +1,2 @@
+class Tinkle < ApplicationRecord
+end

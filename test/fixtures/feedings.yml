@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dog_id: 1
+  amount: 1.5
+  units: MyString
+  time: 2020-04-29 22:30:03
+  date: 2020-04-29
+
+two:
+  dog_id: 1
+  amount: 1.5
+  units: MyString
+  time: 2020-04-29 22:30:03
+  date: 2020-04-29

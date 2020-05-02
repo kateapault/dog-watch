@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  age: 1
+  birthday: 2020-04-29
+  breed: MyString
+  weight: 1.5
+  units: MyString
+  notes: MyText
+  group_id: 1
+
+two:
+  name: MyString
+  age: 1
+  birthday: 2020-04-29
+  breed: MyString
+  weight: 1.5
+  units: MyString
+  notes: MyText
+  group_id: 1
